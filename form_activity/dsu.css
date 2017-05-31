@@ -1,6 +1,6 @@
 @media {
   body{
-    background-image:url();
+    background-image:url(http://skycenter.arizona.edu/sites/skycenter.arizona.edu/files/n2024.jpg);
     margin:1rem;
   }
   header {
@@ -17,7 +17,10 @@
     
   }
   .reference>article {
-      padding:1.5em;
+    padding:1.5em;
+    width: 50em;
+    background-color: rgb(90,190,230);
+    
   }
   article>h3 {
     margin: -1.5em;
