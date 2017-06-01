@@ -1,4 +1,4 @@
-@media {
+@media screen and (min-width: 1000px) {
   body{
     background-image:url(http://skycenter.arizona.edu/sites/skycenter.arizona.edu/files/n2024.jpg);
     margin:1rem;
@@ -25,4 +25,4 @@
   article>h3 {
     margin: -1.5em;
   }
-  
+}
