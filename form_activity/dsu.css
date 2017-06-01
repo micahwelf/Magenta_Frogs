@@ -19,7 +19,7 @@
   .reference>article {
     padding:2em;
     width: 50em;
-    background-color: rgb(90,190,230);
+    /*background-color: rgb(90,190,230); */
     
   }
   article>h3 {
