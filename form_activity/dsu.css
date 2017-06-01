@@ -17,13 +17,14 @@
     
   }
   .reference>article {
-    padding:1.5em;
+    padding:2em;
     width: 50em;
     background-color: rgb(90,190,230);
     
   }
   article>h3 {
-    margin: -1.5em;
+    margin-left: -1em;
     padding: 2em;
+    letter-spacing: 1ex;
   }
 }
