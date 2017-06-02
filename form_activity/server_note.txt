@@ -1,0 +1,8 @@
+
+last used with success: gem serve  -- didn't work on school login.
+
+
+
+Useful reference:
+
+http://paul.wellnerbou.de/2015/05/03/ways-to-start-a-webserver-in-your-current-directory/
